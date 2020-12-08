@@ -1,12 +1,11 @@
+#Deployed Model 
+
+[MODEL](https://itsrawlinz-jeff.github.io/rawlinzbreastcancerclassificationweb/)
+
 # Breast Cancer Prediction using Federated Learning with PyTorch
 
 
-Check the demo [here](https://pytorch-cancer-prediction.herokuapp.com/).
-
-
-## Source Code
-
-The source code is released on Github under MIT license - [repository link](https://github.com/avinassh/breast-cancer-prediction)
+Check the Source Code [here](https://github.com/itsrawlinz-jeff/Heroku-Model-BCC-Deployment.git).
 
 
 ## Introduction
