@@ -20,7 +20,7 @@ We will make use of PySyft library. First, we will train a model based on Densen
 
 ## Demo
 
-Check the demo [here](https://pytorch-cancer-prediction.herokuapp.com/). You can use following histopathological images for testing
+Check the demo [here]( https://breastcancerfinaldeploymentjef.herokuapp.com/) You can use following histopathological images for testing
 
 ### Malignant Samples
 
@@ -48,7 +48,7 @@ Works with Python 3.5 and above
 
 
 ### Python Requirements
-
+https://pytorch-cancer-prediction.herokuapp.com/
 Install them from `requirements.txt`:
 
     pip install -r requirements.txt
