@@ -113,3 +113,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# Ignore log files
+*.log
+
+# Ignore temporary files
+temp/
+
+# Exclude development-specific directories or files
+dev_stuff/
+
+# Exclude large assets
+large_assets/
